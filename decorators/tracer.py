@@ -24,6 +24,6 @@ def rotate_list(l):
     return l[1:] + [l[0]]
 
 l = [1, 2, 3, 4, 5, 6]
-for _ in range(len(l)):
+for _ in range(len(l-2)):
     print(f'Rotating list {l}...')
     l = rotate_list(l)
