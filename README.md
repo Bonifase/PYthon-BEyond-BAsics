@@ -2,4 +2,4 @@
 
 The Python Beyond Basics course is available in PluralSight under paid subscription.
 
-To Download free videos of this course, get the links follow HERE.
+Download complete videos of this course for free, to get the links follow [HERE](https://linkedin.com/in/bonifase-orwa).
